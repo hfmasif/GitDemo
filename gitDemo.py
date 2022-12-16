@@ -12,3 +12,9 @@ if a > b:
   print("a bigger")
 else:
   print("b is bigger")
+
+
+a = 10
+b = 5
+result = a + b
+print("Sum =", result)
