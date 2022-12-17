@@ -27,3 +27,8 @@ list_b = [1,5,6,9,12,7,5,3]
 for i in list_b:
   if i % 2 == 0:
     print("Even =", i)
+
+list_b = [1,5,6,9,12,7,5,3]
+for i in list_b:
+  if i % 2 != 0:
+    print("Odd =", i)
