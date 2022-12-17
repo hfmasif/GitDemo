@@ -18,3 +18,7 @@ a = 10
 b = 5
 result = a + b
 print("Sum =", result)
+
+list_a = [1,2,3,4,5]
+for i in list_a:
+  print(i, end=",")
