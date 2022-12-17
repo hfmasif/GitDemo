@@ -24,7 +24,6 @@ for i in list_a:
   print(i, end=",")
   
 list_b = [1,5,6,9,12,7,5,3]
-if list_b % 2 == 0:
-  print("Even")
-else:
-  print("Odd")
+for i in list_b:
+  if i % 2 == 0:
+    print("Even =", i)
