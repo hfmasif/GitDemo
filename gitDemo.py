@@ -6,6 +6,8 @@ print("Line 5 in Github")
 print("Line 6 in Local")
 print("Line 7 in Github")
 print("Working with Develpment branch")
+print("Hi")
+print("I'm from development branch")
 
 a = 10
 b = 5
